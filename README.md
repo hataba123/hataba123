@@ -7,13 +7,13 @@
 - 🌱 Learning new technologies
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentanloi0000&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=radical)
 
 ## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=nguyentanloi0000)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hataba123)
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyentanloi0000)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hataba123)
 
 ## 🛠 Tech Stack
 <p>
