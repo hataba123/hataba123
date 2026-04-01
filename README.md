@@ -12,7 +12,7 @@
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hataba123)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hataba123&layout=compact&theme=radical&langs_count=6)
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
