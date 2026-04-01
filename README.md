@@ -19,6 +19,13 @@
   <img src="https://img.shields.io/badge/PHP-indigo?logo=php" />
   <img src="https://img.shields.io/badge/Java-red?logo=java" />
 </p>
-## 📫Contact
-<p>Email: nguyentanloi.coder@gmail.com</p>
-<p>Phone: +84 909 830 179 </p>
+
+## 📫 Contact
+<p>
+  <a href="mailto:nguyentanloi.coder@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-nguyentanloi.coder%40gmail.com-blue?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="tel:+84909830179">
+    <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B84%20909%20830%20179-green?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
