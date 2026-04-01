@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loi%20Nguyen)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=nguy%E1%BB%85n%20t%E1%BA%A5n%20l%E1%BB%A3i)
 
 ## 🚀 About me
 <p>Hi, I'm Nguyễn Tấn Lợi </p> 
