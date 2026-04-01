@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=nguy%E1%BB%85n%20t%E1%BA%A5n%20l%E1%BB%A3i)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nguy%E1%BB%85n%20T%E1%BA%A5n%20L%E1%BB%A3i)
 ## 🚀 About me
 <p>Hi, I'm Nguyễn Tấn Lợi </p> 
 <p>I love building web applications and exploring new technologies.  </p>
@@ -8,7 +7,6 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=radical)
-
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hataba123)
 
