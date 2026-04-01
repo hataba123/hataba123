@@ -3,8 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loi%20Nguyen)
 
 ## 🚀 About me
-- 💻 Developer
-- 🌱 Learning new technologies
+<p>I'm Loi Nguyen, a software developer with a strong interest in backend development. 
+</p>  
+<p></p>I enjoy working with JavaScript/TypeScript and building scalable web applications.</p>
+<p>Currently, I'm seeking an opportunity to learn, grow, and contribute to a professional development team.</p>
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=radical)
