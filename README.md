@@ -16,6 +16,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyentanloi0000)
 
 ## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/C%23-purple?logo=csharp" />
+  <img src="https://img.shields.io/badge/PHP-indigo?logo=php" />
+  <img src="https://img.shields.io/badge/Java-red?logo=java" />
+</p>
