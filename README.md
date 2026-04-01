@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Nguyễn Tấn Lợi
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loi%20Nguyen)
 
 ## 🚀 About me
-<p>I'm Loi Nguyen, a software developer with a strong interest in backend development. 
-</p>  
-<p></p>I enjoy working with JavaScript/TypeScript and building scalable web applications.</p>
-<p>Currently, I'm seeking an opportunity to learn, grow, and contribute to a professional development team.</p>
+<p>Hi, I'm Nguyễn Tấn Lợi </p> 
+<p>I love building web applications and exploring new technologies.  </p>
+<p>Currently diving deeper into backend development and looking for opportunities to grow.</p>
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=radical)
