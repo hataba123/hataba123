@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Loi Nguyen
+# 👋 Hi, I'm Nguyễn Tấn Lợi
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loi%20Nguyen)
 
