@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Loi Nguyen
 
-<!--
-**hataba123/hataba123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loi%20Nguyen)
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 💻 Developer
+- 🌱 Learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentanloi0000&show_icons=true&theme=radical)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=nguyentanloi0000)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyentanloi0000)
+
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
