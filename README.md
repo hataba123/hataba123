@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nguy%E1%BB%85n%20T%E1%BA%A5n%20L%E1%BB%A3i)
 
 ## 🚀 About me
-<p>Hi, I'm Nguyễn Tấn Lợi </p> 
+<p>Hi, I'm Lợi </p> 
 <p>I love building web applications and exploring new technologies.  </p>
 <p>Currently diving deeper into backend development and looking for opportunities to grow.</p>
 
