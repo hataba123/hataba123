@@ -7,7 +7,7 @@
 
 ## 🔗 Demo
 [![Demo](https://img.shields.io/badge/Demo-Noble%20Calculator-blue?style=for-the-badge&logo=google-chrome)](https://www.noblecalculator.com/en)
-[![Demo](https://img.shields.io/badge/xosonhanh%20-blue?style=for-the-badge&logo=google-chrome)](https://www.xosonhanh.xyz)
+[![Demo](https://img.shields.io/badge/xoso%20nhanh-blue?style=for-the-badge&logo=google-chrome)](https://www.xosonhanh.xyz)
 
 ---
 
