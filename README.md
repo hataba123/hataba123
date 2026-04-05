@@ -6,8 +6,8 @@
 <p>Currently diving deeper into backend development and looking for opportunities to grow.</p>
 
 ## 🔗 Demo
-[![Demo](https://img.shields.io/badge/Demo-Noble%20Calculator-blue?style=for-the-badge&logo=google-chrome)](https://www.noblecalculator.com/en)
-[![Demo](https://img.shields.io/badge/xosonhanh%20-blue?style=for-the-badge&logo=google-chrome)](https://www.xosonhanh.xyz)
+<p>[![Demo](https://img.shields.io/badge/Demo-Noble%20Calculator-blue?style=for-the-badge&logo=google-chrome)](https://www.noblecalculator.com/en)</p>
+<p>[![Demo](https://img.shields.io/badge/xosonhanh%20-blue?style=for-the-badge&logo=google-chrome)](https://www.xosonhanh.xyz)</p>
 
 ---
 
