@@ -7,7 +7,8 @@
 
 ## 🔗 Demo
 [![Demo](https://img.shields.io/badge/Demo-Noble%20Calculator-blue?style=for-the-badge&logo=google-chrome)](https://www.noblecalculator.com/en)
-[![Demo](https://img.shields.io/badge/xosonhanh%20-blue?style=for-the-badge&logo=firefox)](https://www.xosonhanh.xyz)
+[![Demo](https://img.shields.io/badge/xosonhanh%20-green?style=for-the-badge&logo=firefox)](https://www.xosonhanh.xyz)
+[![Demo](https://img.shields.io/badge/weatherforecast%20-yellow?style=for-the-badge&logo=edge)](https://weatherforecast-sigma-ochre.vercel.app/)
 
 ---
 
