@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" />
   <img src="https://img.shields.io/badge/C%23-purple?logo=csharp" />
-  <img src="https://img.shields.io/badge/PHP-indigo?logo=php" />
   <img src="https://img.shields.io/badge/Java-red?logo=java" />
   <img src="https://img.shields.io/badge/Dart-dart?logo=dart" />
 </p>
