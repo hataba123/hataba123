@@ -9,7 +9,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Noble%20Calculator-blue?style=for-the-badge&logo=google-chrome)](https://www.noblecalculator.com/en)
 [![Demo](https://img.shields.io/badge/xosonhanh%20-green?style=for-the-badge&logo=firefox)](https://www.xosonhanh.xyz)
 [![Demo](https://img.shields.io/badge/chitieu%20-yellow?style=for-the-badge&logo=opera)](https://moneymind-ai-sable.vercel.app/)
-[![Demo](https://img.shields.io/badge/Có%20Vay-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://vercel.com/nguyentanloi000000-3622s-projects/co-vay)
+[![Demo](https://img.shields.io/badge/Cờ%20Vây-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://vercel.com/nguyentanloi000000-3622s-projects/co-vay)
 ---
 
 ## 🔥 Streak
