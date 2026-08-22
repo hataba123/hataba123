@@ -31,10 +31,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hataba123&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<!-- Biểu đồ commit & streak theo ngày -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hataba123&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
-[![hataba123's GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hataba123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Cúp thành tích (Trophy) tính theo Streak, Commits, PRs -->
+<img src="https://github-profile-trophy.vercel.app/?username=hataba123&theme=tokyonight&no-frame=true&column=6&margin_w=10" alt="GitHub Trophies" />
 
 </div>
 
