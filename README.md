@@ -28,16 +28,15 @@
 ---
 
 ## 🔥 Streak & Overview Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hataba123&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="hataba123 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hataba123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hataba123&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+[![hataba123's GitHub stats](https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hataba123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
