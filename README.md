@@ -29,7 +29,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hataba123&theme=tokyo-night&hide_border=true&border_radius=10&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&theme=tokyo-night&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </p>
 
 ---
