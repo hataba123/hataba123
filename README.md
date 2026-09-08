@@ -28,13 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hataba123&show_icons=true&count_private=true&theme=tokyo-night&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
----
-
 ## 📫 Contact
 <p>
   <a href="mailto:nguyenloi.coder@gmail.com">
