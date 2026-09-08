@@ -13,7 +13,7 @@
   <a href="https://www.xosonhanh.xyz"><img src="https://img.shields.io/badge/xosonhanh-16a34a?style=for-the-badge&logo=firefox&logoColor=white" alt="Xổ số nhanh" /></a>
   <a href="https://co-vay-opal.vercel.app/"><img src="https://img.shields.io/badge/Cờ%20Vây-0078D7?style=for-the-badge&logo=opera&logoColor=white" alt="Cờ Vây" /></a>
   <a href="https://pet-habits.vercel.app/"><img src="https://img.shields.io/badge/PetHabits-7c3aed?style=for-the-badge&logo=opera&logoColor=white" alt="PetHabits" /></a>
-  <a href="https://cardify.io.vn/"><img src="https://img.shields.io/badge/Cardify-7c3aed?style=for-the-badge&logo=opera&logoColor=red" alt="Cardify" /></a>
+  <a href="https://cardify.io.vn/"><img src="https://img.shields.io/badge/Cardify-16a34a?style=for-the-badge&logo=opera&logoColor=red" alt="Cardify" /></a>
 </p>
 
 ---
