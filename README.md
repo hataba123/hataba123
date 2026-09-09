@@ -24,6 +24,8 @@
 [![Github stats](https://github-readme-stats-phi-one-18.vercel.app/api?username=hataba123&show_icons=true&count_private=true&include_all_commits=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hataba123&bg_color=040f0f&color=00b3ff&line=00b3ff&point=2ce5a7&area=true&hide_border=true)](#)
+
 
 [![Top languages](https://github-readme-stats-phi-one-18.vercel.app/api/top-langs/?username=hataba123&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
