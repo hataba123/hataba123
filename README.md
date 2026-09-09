@@ -29,7 +29,7 @@
 
 
 
-[![Current streak](https://streak-stats.demolab.com/?user=hataba123&count_private=true&theme=blue-green&title_color=00b3ff
+[![Current streak](https://streak-stats.demolab.com/?user=hataba123&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
