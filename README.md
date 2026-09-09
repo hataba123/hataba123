@@ -18,6 +18,22 @@
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+
+[![Github stats](https://github-readme-mwendwa.vercel.app/api?username=hataba123&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hataba123&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+
+[![Current streak](https://streak-stats.demolab.com/?user=hataba123&count_private=true&theme=blue-green&title_color=00b3ff
+
+---
+
+
 ## 🛠 Programming Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
