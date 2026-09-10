@@ -10,7 +10,7 @@
 ## 🔗 Demo Projects
 <p>
   <a href="https://www.noblecalculator.com/en"><img src="https://img.shields.io/badge/Demo-Noble%20Calculator-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Noble Calculator" /></a>
-    <a href="https://weatherforecast-rust-nine.vercel.app"><img src="https://img.shields.io/badge/Demo-Noble%20Calculator-2563eb?style=for-the-badge&logo=google-chrome&logoColor=yellow" alt="Weather Forecast" /></a>
+    <a href="https://weatherforecast-rust-nine.vercel.app"><img src="https://img.shields.io/badge/Weather%20Forecast-16a34a?style=for-the-badge&logo=google-chrome&logoColor=yellow" alt="Weather Forecast" /></a>
   <a href="https://www.xosonhanh.xyz"><img src="https://img.shields.io/badge/xosonhanh-16a34a?style=for-the-badge&logo=firefox&logoColor=white" alt="Xổ số nhanh" /></a>
   <a href="https://co-vay-opal.vercel.app/"><img src="https://img.shields.io/badge/Cờ%20Vây-0078D7?style=for-the-badge&logo=opera&logoColor=white" alt="Cờ Vây" /></a>
   <a href="https://pet-habits.vercel.app/"><img src="https://img.shields.io/badge/PetHabits-7c3aed?style=for-the-badge&logo=opera&logoColor=white" alt="PetHabits" /></a>
